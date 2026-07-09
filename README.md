@@ -108,7 +108,7 @@ The primary objective of this project is to provide business leaders with a clea
 - Dashboard Design
 - Data Visualization
 - Analytical Thinking
-- KPI Development
+
 
 ---
 
